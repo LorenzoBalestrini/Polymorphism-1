@@ -8,5 +8,9 @@ public class Test {
         lion.animalSound();
         System.out.println("-------------");
         lion.animalSound("High");
+        System.out.println("-------------");
+        lion.animalSound("Low");
+        System.out.println("-------------");
+        lion.animalSound(" ");
     }
 }
